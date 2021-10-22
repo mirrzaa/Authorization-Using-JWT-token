@@ -1,5 +1,4 @@
 # Authorization-Using-JWT-token
-<h1>Resources: Spring Security in Action</h1>
 
 ![first_image](/images/1.png)
 
