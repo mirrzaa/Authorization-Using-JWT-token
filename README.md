@@ -1,7 +1,7 @@
 # Authorization-Using-JWT-token
 <h1>Resources: Spring Security in Action</h1>
 
-![first_image](/images/1.png){:height="50%" width="50%"}
+![first_image](/images/1.png)
 
 <h1>To accomplish our task at a high level, we need to:</h1>
 <p>1. Create endpoint that represents the resource we want to secure.</p>
@@ -18,4 +18,4 @@
 <p>5. Define Custom filter objects that intercept the HTTP request and apply authentication logic implemented by the AuthenticationProvider objects.</p>
 <p>6. Write Authorization configurations.</p>
 
-![first_image](/images/3.png){:height="50%" width="50%"}
+![first_image](/images/3.png)
