@@ -1,5 +1,6 @@
 # Authorization-Using-JWT-token
-![Image](/images/1.png)
+![first_image](/images/1.png)
+
 
 
 <h1>To accomplish our task at a high level, we need to:</h1>
@@ -16,3 +17,5 @@
 <p>4. Define the AuthenticationProvider objects that implement athentication logic for two authentication steps using Authentication objects defined in step2. </p>
 <p>5. Define Custom filter objects that intercept the HTTP request and apply authentication logic implemented by the AuthenticationProvider objects.</p>
 <p>6. Write Authorization configurations.</p>
+
+![first_image](/images/3.png)
